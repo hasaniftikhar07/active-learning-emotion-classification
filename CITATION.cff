@@ -1,0 +1,12 @@
+---
+cff-version: 1.2.0
+message: "If you use this code, please cite this repository. A formal research paper is forthcoming."
+title: "Active Learning for Emotion Classification"
+version: "0.1.0"
+date-released: "2026-03-27"
+authors:
+  - given-names: "Hasan"
+    family-names: "Iftikhar"
+    orcid: ""
+url: "https://github.com/hasaniftikhar07/active-learning-emotion-classification"
+---
